@@ -6,7 +6,7 @@ I'm a master's student in Cognitive Neuroscience and Clinical Neuropsychology at
 ### Projects & Notebooks
 
 -  [fMRI & MRI Preprocessing, Postprocessing and Functional Connectivity](https://github.com/RhizomaticRatio/functional-connectivity-fmri)
--  [Preprocessing Tutorial](https://github.com/RhizomaticRatio/single-subject-mri-fmri-preprocessing-tutorial)
+-  [fMRI & MRI Preprocessing Tutorial Nilearn](https://github.com/RhizomaticRatio/single-subject-mri-fmri-preprocessing-tutorial)
 -  [Tumor Detection ML](https://github.com/RhizomaticRatio/tumor-detection-ML)
 
 ---
