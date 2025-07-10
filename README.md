@@ -5,6 +5,7 @@ I'm a master's student in Cognitive Neuroscience and Clinical Neuropsychology at
 
 ### Projects & Notebooks
 
+-  [Generative Models of Visual Perception: VAE & ß-VAE on Caltech-101](https://github.com/RhizomaticRatio/Generative-Models-of-Visual-Perception-VAE)
 -  [fMRI & MRI Preprocessing, Postprocessing and Functional Connectivity](https://github.com/RhizomaticRatio/functional-connectivity-fmri)
 -  [fMRI & MRI Preprocessing Tutorial Nilearn](https://github.com/RhizomaticRatio/single-subject-mri-fmri-preprocessing-tutorial)
 -  [Tumor Detection ML](https://github.com/RhizomaticRatio/tumor-detection-ML)
