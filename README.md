@@ -5,7 +5,7 @@ I'm a master's student in Cognitive Neuroscience and Clinical Neuropsychology at
 
 ### Projects & Notebooks
 
--  [Synthetic fMRI connectivity analysis](https://github.com/RhizomaticRatio/synthetic_fmri_connectivity)
+-  [Synthetic fMRI Connectivity Analysis](https://github.com/RhizomaticRatio/synthetic_fmri_connectivity)
 -  [Generative Models of Visual Perception: VAE & ß-VAE on Caltech-101](https://github.com/RhizomaticRatio/Generative-Models-of-Visual-Perception-VAE)
 -  [fMRI & MRI Preprocessing, Postprocessing and Functional Connectivity](https://github.com/RhizomaticRatio/functional-connectivity-fmri)
 -  [fMRI & MRI Preprocessing Tutorial Nilearn](https://github.com/RhizomaticRatio/single-subject-mri-fmri-preprocessing-tutorial)
