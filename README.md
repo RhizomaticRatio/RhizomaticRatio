@@ -19,7 +19,4 @@ ogulcan.ulu7@gmail.com / ogulcan.ulu@studenti.unipd.it
 Padova, Italy
 
 
-[GitHub](https://github.com/RhizomaticRatio)
-
-
 [LinkedIn](https://www.linkedin.com/in/ogulcanulu/)
