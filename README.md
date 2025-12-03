@@ -5,6 +5,7 @@ I'm a master's student in Cognitive Neuroscience and Clinical Neuropsychology at
 
 ### Projects & Notebooks
 
+-  [Dynamic Causal Modelling: A Toy Architecture](https://github.com/RhizomaticRatio/mini_dcm_toy)
 -  [Synthetic fMRI Connectivity Analysis](https://github.com/RhizomaticRatio/synthetic_fmri_connectivity)
 -  [Generative Models of Visual Perception: VAE & ß-VAE on Caltech-101](https://github.com/RhizomaticRatio/Generative-Models-of-Visual-Perception-VAE)
 -  [fMRI & MRI Preprocessing, Postprocessing and Functional Connectivity](https://github.com/RhizomaticRatio/functional-connectivity-fmri)
