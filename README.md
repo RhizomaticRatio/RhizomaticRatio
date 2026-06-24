@@ -1,6 +1,6 @@
 # Hey, I'm Oğulcan!
 
-I'm a master's student in Cognitive Neuroscience and Clinical Neuropsychology at the University of Padova. I'm passionate about neuroimaging, precision medicine, AI applications in radiodiagnostics and prognosis prediction, brain-computer interfaces (BCI), and computational models of the brain. I also love painting and drawing.
+I'm a master's student in Cognitive Neuroscience and Clinical Neuropsychology at the University of Padova. I'm passionate about neuroimaging, precision medicine, AI applications in radiodiagnostics and prognosis prediction, and computational models of the brain. I also love painting and drawing.
 
 
 ### Projects & Notebooks
