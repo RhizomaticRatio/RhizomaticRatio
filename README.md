@@ -5,7 +5,7 @@ I'm a MSc. in Cognitive Neuroscience and Clinical Neuropsychology. Graduated fro
 
 ### Projects & Notebooks
 
--  [A beginner-friendly resting-state fMRI and functional-connectivity project in Python (https://github.com/RhizomaticRatio/neuroimaging_python)
+-  [A beginner-friendly resting-state fMRI and functional-connectivity project in Python](https://github.com/RhizomaticRatio/neuroimaging_python)
 -  [Dynamic Causal Modelling: A Toy Architecture](https://github.com/RhizomaticRatio/mini_dcm_toy)
 -  [Synthetic fMRI Connectivity Analysis](https://github.com/RhizomaticRatio/synthetic_fmri_connectivity)
 -  [Generative Models of Visual Perception: VAE & ß-VAE on Caltech-101](https://github.com/RhizomaticRatio/Generative-Models-of-Visual-Perception-VAE)
